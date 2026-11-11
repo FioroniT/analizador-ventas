@@ -1,0 +1,1090 @@
+id_ticket,fecha,producto,categoria,cantidad,precio_unitario,sucursal
+T00001,2026-01-01,Mouse,Periféricos,1,12000,Centro
+T00001,2026-01-01,Pendrive,Accesorios,2,8000,Centro
+T00001,2026-01-01,Cable USB,Accesorios,9,2500,Centro
+T00002,2026-01-01,Pilas AA x4,Accesorios,8,3500,Centro
+T00002,2026-01-01,Pendrive,Accesorios,4,8000,Centro
+T00002,2026-01-01,Parlante,Audio,2,55000,Centro
+T00002,2026-01-01,Notebook,Computación,1,850000,Centro
+T00003,2026-01-02,Pendrive,Accesorios,5,8000,Centro
+T00004,2026-01-02,Teclado,Periféricos,1,30000,Centro
+T00004,2026-01-02,Webcam,Periféricos,1,45000,Centro
+T00004,2026-01-02,Pendrive,Accesorios,2,8000,Centro
+T00005,2026-01-03,Pilas AA x4,Accesorios,3,3500,Norte
+T00006,2026-01-03,Cable USB,Accesorios,4,2500,Sur
+T00006,2026-01-03,Mouse,Periféricos,2,12000,Sur
+T00006,2026-01-03,Pendrive,Accesorios,3,8000,Sur
+T00006,2026-01-03,Teclado,Periféricos,2,30000,Sur
+T00007,2026-01-04,Cable USB,Accesorios,7,2500,Sur
+T00007,2026-01-04,Mouse,Periféricos,1,12000,Sur
+T00007,2026-01-04,Pendrive,Accesorios,4,8000,Sur
+T00007,2026-01-04,Parlante,Audio,1,55000,Sur
+T00008,2026-01-04,Pendrive,Accesorios,3,8000,Norte
+T00008,2026-01-04,Cable USB,Accesorios,3,2500,Norte
+T00008,2026-01-04,Impresora,Computación,1,180000,Norte
+T00008,2026-01-04,Mouse,Periféricos,1,12000,Norte
+T00009,2026-01-04,Pilas AA x4,Accesorios,5,3500,Sur
+T00009,2026-01-04,Cable USB,Accesorios,10,2500,Sur
+T00010,2026-01-04,Mouse,Periféricos,1,12000,Centro
+T00010,2026-01-04,Pilas AA x4,Accesorios,2,3500,Centro
+T00010,2026-01-04,Webcam,Periféricos,1,45000,Centro
+T00010,2026-01-04,Cable USB,Accesorios,3,2500,Centro
+T00011,2026-01-06,Teclado,Periféricos,1,30000,Sur
+T00011,2026-01-06,Monitor,Computación,2,260000,Sur
+T00011,2026-01-06,Cable USB,Accesorios,5,2500,Sur
+T00011,2026-01-06,Pendrive,Accesorios,5,8000,Sur
+T00012,2026-01-06,Auriculares,Audio,1,35000,Norte
+T00012,2026-01-06,Mouse,Periféricos,3,12000,Norte
+T00012,2026-01-06,Pilas AA x4,Accesorios,8,3500,Norte
+T00013,2026-01-06,Pendrive,Accesorios,5,8000,Norte
+T00013,2026-01-06,Pilas AA x4,Accesorios,1,3500,Norte
+T00013,2026-01-06,Auriculares,Audio,1,35000,Norte
+T00014,2026-01-07,Auriculares,Audio,1,35000,Norte
+T00014,2026-01-07,Pilas AA x4,Accesorios,6,3500,Norte
+T00015,2026-01-07,Teclado,Periféricos,1,30000,Centro
+T00015,2026-01-07,Cable USB,Accesorios,6,2500,Centro
+T00015,2026-01-07,Parlante,Audio,2,55000,Centro
+T00016,2026-01-07,Mouse,Periféricos,3,12000,Centro
+T00017,2026-01-07,Mouse,Periféricos,2,12000,Norte
+T00018,2026-01-07,Pendrive,Accesorios,4,8000,Centro
+T00018,2026-01-07,Cable USB,Accesorios,10,2500,Centro
+T00019,2026-01-07,Monitor,Computación,1,260000,Norte
+T00020,2026-01-08,Teclado,Periféricos,2,30000,Norte
+T00020,2026-01-08,Cable USB,Accesorios,9,2500,Norte
+T00020,2026-01-08,Auriculares,Audio,2,35000,Norte
+T00021,2026-01-09,Mouse,Periféricos,3,12000,Norte
+T00021,2026-01-09,Auriculares,Audio,2,35000,Norte
+T00021,2026-01-09,Pendrive,Accesorios,3,8000,Norte
+T00021,2026-01-09,Parlante,Audio,2,55000,Norte
+T00022,2026-01-09,Parlante,Audio,2,55000,Sur
+T00022,2026-01-09,Mouse,Periféricos,2,12000,Sur
+T00022,2026-01-09,Cable USB,Accesorios,6,2500,Sur
+T00022,2026-01-09,Pendrive,Accesorios,1,8000,Sur
+T00023,2026-01-09,Pendrive,Accesorios,3,8000,Norte
+T00023,2026-01-09,Mouse,Periféricos,1,12000,Norte
+T00023,2026-01-09,Auriculares,Audio,2,35000,Norte
+T00024,2026-01-10,Teclado,Periféricos,2,30000,Centro
+T00025,2026-01-10,Mouse,Periféricos,2,12000,Sur
+T00025,2026-01-10,Cable USB,Accesorios,9,2500,Sur
+T00025,2026-01-10,Teclado,Periféricos,1,30000,Sur
+T00025,2026-01-10,Impresora,Computación,1,180000,Sur
+T00026,2026-01-12,Monitor,Computación,2,260000,Norte
+T00026,2026-01-12,Mouse,Periféricos,3,12000,Norte
+T00026,2026-01-12,Auriculares,Audio,2,35000,Norte
+T00027,2026-01-12,Cable USB,Accesorios,8,2500,Centro
+T00027,2026-01-12,Pendrive,Accesorios,3,8000,Centro
+T00027,2026-01-12,Pilas AA x4,Accesorios,1,3500,Centro
+T00028,2026-01-13,Cable USB,Accesorios,6,2500,Centro
+T00028,2026-01-13,Pilas AA x4,Accesorios,1,3500,Centro
+T00029,2026-01-13,Webcam,Periféricos,1,45000,Centro
+T00029,2026-01-13,Cable USB,Accesorios,2,2500,Centro
+T00029,2026-01-13,Mouse,Periféricos,1,12000,Centro
+T00029,2026-01-13,Parlante,Audio,2,55000,Centro
+T00030,2026-01-14,Parlante,Audio,1,55000,Centro
+T00030,2026-01-14,Cable USB,Accesorios,2,2500,Centro
+T00030,2026-01-14,Impresora,Computación,1,180000,Centro
+T00030,2026-01-14,Mouse,Periféricos,2,12000,Centro
+T00031,2026-01-15,Auriculares,Audio,1,35000,Norte
+T00032,2026-01-15,Teclado,Periféricos,2,30000,Norte
+T00032,2026-01-15,Mouse,Periféricos,2,12000,Norte
+T00032,2026-01-15,Webcam,Periféricos,1,45000,Norte
+T00033,2026-01-15,Auriculares,Audio,2,35000,Sur
+T00033,2026-01-15,Mouse,Periféricos,2,12000,Sur
+T00033,2026-01-15,Pendrive,Accesorios,2,8000,Sur
+T00033,2026-01-15,Webcam,Periféricos,1,45000,Sur
+T00034,2026-01-16,Pendrive,Accesorios,5,8000,Norte
+T00035,2026-01-17,Pilas AA x4,Accesorios,6,3500,Sur
+T00035,2026-01-17,Cable USB,Accesorios,6,2500,Sur
+T00035,2026-01-17,Webcam,Periféricos,1,45000,Sur
+T00036,2026-01-17,Pendrive,Accesorios,5,8000,Centro
+T00036,2026-01-17,Pilas AA x4,Accesorios,7,3500,Centro
+T00037,2026-01-17,Pilas AA x4,Accesorios,4,3500,Sur
+T00038,2026-01-18,Parlante,Audio,1,55000,Centro
+T00038,2026-01-18,Mouse,Periféricos,2,12000,Centro
+T00038,2026-01-18,Pilas AA x4,Accesorios,8,3500,Centro
+T00038,2026-01-18,Auriculares,Audio,1,35000,Centro
+T00039,2026-01-19,Mouse,Periféricos,1,12000,Sur
+T00039,2026-01-19,Cable USB,Accesorios,3,2500,Sur
+T00039,2026-01-19,Pendrive,Accesorios,5,8000,Sur
+T00040,2026-01-20,Pendrive,Accesorios,5,8000,Sur
+T00040,2026-01-20,Auriculares,Audio,1,35000,Sur
+T00041,2026-01-21,Teclado,Periféricos,2,30000,Sur
+T00042,2026-01-21,Teclado,Periféricos,2,30000,Centro
+T00042,2026-01-21,Cable USB,Accesorios,3,2500,Centro
+T00043,2026-01-22,Auriculares,Audio,1,35000,Norte
+T00043,2026-01-22,Monitor,Computación,1,260000,Norte
+T00044,2026-01-22,Pilas AA x4,Accesorios,7,3500,Norte
+T00044,2026-01-22,Teclado,Periféricos,1,30000,Norte
+T00044,2026-01-22,Webcam,Periféricos,1,45000,Norte
+T00044,2026-01-22,Impresora,Computación,1,180000,Norte
+T00045,2026-01-23,Mouse,Periféricos,1,12000,Sur
+T00046,2026-01-24,Cable USB,Accesorios,1,2500,Centro
+T00046,2026-01-24,Pendrive,Accesorios,2,8000,Centro
+T00046,2026-01-24,Teclado,Periféricos,1,30000,Centro
+T00047,2026-01-24,Cable USB,Accesorios,6,2500,Centro
+T00047,2026-01-24,Parlante,Audio,1,55000,Centro
+T00047,2026-01-24,Pendrive,Accesorios,5,8000,Centro
+T00047,2026-01-24,Webcam,Periféricos,1,45000,Centro
+T00048,2026-01-24,Mouse,Periféricos,3,12000,Sur
+T00048,2026-01-24,Parlante,Audio,2,55000,Sur
+T00048,2026-01-24,Teclado,Periféricos,1,30000,Sur
+T00048,2026-01-24,Pendrive,Accesorios,2,8000,Sur
+T00049,2026-01-25,Auriculares,Audio,1,35000,Sur
+T00049,2026-01-25,Impresora,Computación,1,180000,Sur
+T00050,2026-01-25,Cable USB,Accesorios,7,2500,Centro
+T00050,2026-01-25,Parlante,Audio,1,55000,Centro
+T00051,2026-01-25,Cable USB,Accesorios,5,2500,Sur
+T00051,2026-01-25,Pilas AA x4,Accesorios,5,3500,Sur
+T00052,2026-01-25,Mouse,Periféricos,1,12000,Sur
+T00052,2026-01-25,Teclado,Periféricos,1,30000,Sur
+T00052,2026-01-25,Pilas AA x4,Accesorios,4,3500,Sur
+T00053,2026-01-25,Mouse,Periféricos,3,12000,Norte
+T00053,2026-01-25,Cable USB,Accesorios,2,2500,Norte
+T00053,2026-01-25,Monitor,Computación,2,260000,Norte
+T00053,2026-01-25,Pendrive,Accesorios,4,8000,Norte
+T00054,2026-01-26,Pendrive,Accesorios,3,8000,Norte
+T00055,2026-01-26,Cable USB,Accesorios,2,2500,Centro
+T00056,2026-01-26,Cable USB,Accesorios,3,2500,Sur
+T00056,2026-01-26,Mouse,Periféricos,1,12000,Sur
+T00056,2026-01-26,Notebook,Computación,1,850000,Sur
+T00056,2026-01-26,Pilas AA x4,Accesorios,7,3500,Sur
+T00057,2026-01-27,Cable USB,Accesorios,1,2500,Centro
+T00057,2026-01-27,Teclado,Periféricos,1,30000,Centro
+T00058,2026-01-27,Pendrive,Accesorios,3,8000,Sur
+T00059,2026-01-28,Teclado,Periféricos,2,30000,Sur
+T00059,2026-01-28,Mouse,Periféricos,3,12000,Sur
+T00060,2026-01-28,Mouse,Periféricos,2,12000,Norte
+T00060,2026-01-28,Webcam,Periféricos,1,45000,Norte
+T00061,2026-01-28,Parlante,Audio,2,55000,Centro
+T00061,2026-01-28,Auriculares,Audio,1,35000,Centro
+T00061,2026-01-28,Mouse,Periféricos,2,12000,Centro
+T00061,2026-01-28,Webcam,Periféricos,1,45000,Centro
+T00062,2026-01-29,Pendrive,Accesorios,3,8000,Sur
+T00062,2026-01-29,Teclado,Periféricos,1,30000,Sur
+T00062,2026-01-29,Pilas AA x4,Accesorios,2,3500,Sur
+T00062,2026-01-29,Cable USB,Accesorios,10,2500,Sur
+T00063,2026-01-29,Cable USB,Accesorios,2,2500,Norte
+T00063,2026-01-29,Mouse,Periféricos,1,12000,Norte
+T00064,2026-01-29,Pilas AA x4,Accesorios,3,3500,Norte
+T00064,2026-01-29,Parlante,Audio,2,55000,Norte
+T00064,2026-01-29,Monitor,Computación,2,260000,Norte
+T00064,2026-01-29,Pendrive,Accesorios,1,8000,Norte
+T00065,2026-01-30,Pilas AA x4,Accesorios,2,3500,Norte
+T00065,2026-01-30,Monitor,Computación,2,260000,Norte
+T00066,2026-01-31,Mouse,Periféricos,3,12000,Sur
+T00067,2026-01-31,Pilas AA x4,Accesorios,4,3500,Norte
+T00068,2026-01-31,Monitor,Computación,1,260000,Sur
+T00068,2026-01-31,Impresora,Computación,1,180000,Sur
+T00068,2026-01-31,Cable USB,Accesorios,10,2500,Sur
+T00068,2026-01-31,Teclado,Periféricos,1,30000,Sur
+T00069,2026-01-31,Monitor,Computación,1,260000,Norte
+T00069,2026-01-31,Cable USB,Accesorios,8,2500,Norte
+T00069,2026-01-31,Webcam,Periféricos,1,45000,Norte
+T00070,2026-01-31,Parlante,Audio,1,55000,Sur
+T00070,2026-01-31,Mouse,Periféricos,1,12000,Sur
+T00070,2026-01-31,Impresora,Computación,1,180000,Sur
+T00071,2026-02-01,Mouse,Periféricos,3,12000,Norte
+T00072,2026-02-01,Parlante,Audio,2,55000,Centro
+T00072,2026-02-01,Cable USB,Accesorios,7,2500,Centro
+T00073,2026-02-01,Mouse,Periféricos,1,12000,Norte
+T00073,2026-02-01,Notebook,Computación,1,850000,Norte
+T00074,2026-02-01,Pendrive,Accesorios,2,8000,Sur
+T00074,2026-02-01,Mouse,Periféricos,3,12000,Sur
+T00075,2026-02-01,Webcam,Periféricos,1,45000,Norte
+T00075,2026-02-01,Auriculares,Audio,2,35000,Norte
+T00076,2026-02-02,Cable USB,Accesorios,10,2500,Centro
+T00076,2026-02-02,Teclado,Periféricos,1,30000,Centro
+T00076,2026-02-02,Pilas AA x4,Accesorios,5,3500,Centro
+T00076,2026-02-02,Impresora,Computación,1,180000,Centro
+T00077,2026-02-03,Pilas AA x4,Accesorios,1,3500,Centro
+T00077,2026-02-03,Cable USB,Accesorios,1,2500,Centro
+T00077,2026-02-03,Auriculares,Audio,2,35000,Centro
+T00077,2026-02-03,Pendrive,Accesorios,2,8000,Centro
+T00078,2026-02-03,Cable USB,Accesorios,10,2500,Sur
+T00078,2026-02-03,Parlante,Audio,2,55000,Sur
+T00078,2026-02-03,Mouse,Periféricos,1,12000,Sur
+T00078,2026-02-03,Pilas AA x4,Accesorios,2,3500,Sur
+T00079,2026-02-03,Cable USB,Accesorios,5,2500,Centro
+T00080,2026-02-03,Pilas AA x4,Accesorios,1,3500,Centro
+T00080,2026-02-03,Notebook,Computación,1,850000,Centro
+T00080,2026-02-03,Cable USB,Accesorios,10,2500,Centro
+T00080,2026-02-03,Mouse,Periféricos,1,12000,Centro
+T00081,2026-02-04,Pendrive,Accesorios,1,8000,Centro
+T00081,2026-02-04,Mouse,Periféricos,2,12000,Centro
+T00082,2026-02-04,Pendrive,Accesorios,5,8000,Norte
+T00082,2026-02-04,Teclado,Periféricos,1,30000,Norte
+T00082,2026-02-04,Mouse,Periféricos,1,12000,Norte
+T00082,2026-02-04,Auriculares,Audio,1,35000,Norte
+T00083,2026-02-05,Cable USB,Accesorios,6,2500,Sur
+T00083,2026-02-05,Pendrive,Accesorios,2,8000,Sur
+T00083,2026-02-05,Mouse,Periféricos,1,12000,Sur
+T00084,2026-02-06,Auriculares,Audio,2,35000,Centro
+T00084,2026-02-06,Teclado,Periféricos,2,30000,Centro
+T00084,2026-02-06,Cable USB,Accesorios,5,2500,Centro
+T00084,2026-02-06,Parlante,Audio,2,55000,Centro
+T00085,2026-02-06,Auriculares,Audio,1,35000,Norte
+T00085,2026-02-06,Teclado,Periféricos,2,30000,Norte
+T00086,2026-02-07,Cable USB,Accesorios,10,2500,Centro
+T00086,2026-02-07,Auriculares,Audio,2,35000,Centro
+T00086,2026-02-07,Pilas AA x4,Accesorios,5,3500,Centro
+T00086,2026-02-07,Pendrive,Accesorios,4,8000,Centro
+T00087,2026-02-08,Pendrive,Accesorios,3,8000,Centro
+T00087,2026-02-08,Cable USB,Accesorios,7,2500,Centro
+T00087,2026-02-08,Mouse,Periféricos,3,12000,Centro
+T00088,2026-02-08,Mouse,Periféricos,2,12000,Centro
+T00089,2026-02-09,Pilas AA x4,Accesorios,7,3500,Norte
+T00089,2026-02-09,Pendrive,Accesorios,3,8000,Norte
+T00089,2026-02-09,Cable USB,Accesorios,1,2500,Norte
+T00090,2026-02-09,Parlante,Audio,2,55000,Centro
+T00090,2026-02-09,Webcam,Periféricos,1,45000,Centro
+T00091,2026-02-10,Webcam,Periféricos,1,45000,Centro
+T00091,2026-02-10,Mouse,Periféricos,1,12000,Centro
+T00091,2026-02-10,Cable USB,Accesorios,7,2500,Centro
+T00091,2026-02-10,Pilas AA x4,Accesorios,2,3500,Centro
+T00092,2026-02-10,Cable USB,Accesorios,6,2500,Norte
+T00092,2026-02-10,Pilas AA x4,Accesorios,5,3500,Norte
+T00092,2026-02-10,Mouse,Periféricos,1,12000,Norte
+T00093,2026-02-11,Pendrive,Accesorios,2,8000,Centro
+T00094,2026-02-11,Impresora,Computación,1,180000,Norte
+T00094,2026-02-11,Pendrive,Accesorios,3,8000,Norte
+T00094,2026-02-11,Pilas AA x4,Accesorios,3,3500,Norte
+T00094,2026-02-11,Cable USB,Accesorios,2,2500,Norte
+T00095,2026-02-11,Parlante,Audio,1,55000,Centro
+T00095,2026-02-11,Mouse,Periféricos,3,12000,Centro
+T00095,2026-02-11,Pilas AA x4,Accesorios,7,3500,Centro
+T00096,2026-02-13,Notebook,Computación,1,850000,Centro
+T00097,2026-02-13,Mouse,Periféricos,1,12000,Norte
+T00098,2026-02-14,Mouse,Periféricos,3,12000,Norte
+T00098,2026-02-14,Impresora,Computación,1,180000,Norte
+T00098,2026-02-14,Monitor,Computación,2,260000,Norte
+T00098,2026-02-14,Auriculares,Audio,1,35000,Norte
+T00099,2026-02-14,Mouse,Periféricos,1,12000,Norte
+T00100,2026-02-15,Cable USB,Accesorios,5,2500,Centro
+T00100,2026-02-15,Pendrive,Accesorios,4,8000,Centro
+T00101,2026-02-16,Mouse,Periféricos,2,12000,Centro
+T00101,2026-02-16,Pendrive,Accesorios,1,8000,Centro
+T00102,2026-02-16,Teclado,Periféricos,1,30000,Sur
+T00102,2026-02-16,Pilas AA x4,Accesorios,7,3500,Sur
+T00102,2026-02-16,Pendrive,Accesorios,3,8000,Sur
+T00103,2026-02-17,Webcam,Periféricos,1,45000,Centro
+T00103,2026-02-17,Teclado,Periféricos,1,30000,Centro
+T00103,2026-02-17,Pendrive,Accesorios,5,8000,Centro
+T00104,2026-02-17,Mouse,Periféricos,2,12000,Norte
+T00104,2026-02-17,Webcam,Periféricos,1,45000,Norte
+T00105,2026-02-17,Notebook,Computación,1,850000,Centro
+T00105,2026-02-17,Parlante,Audio,2,55000,Centro
+T00106,2026-02-18,Cable USB,Accesorios,7,2500,Sur
+T00107,2026-02-19,Cable USB,Accesorios,6,2500,Sur
+T00107,2026-02-19,Pilas AA x4,Accesorios,7,3500,Sur
+T00107,2026-02-19,Pendrive,Accesorios,3,8000,Sur
+T00107,2026-02-19,Mouse,Periféricos,1,12000,Sur
+T00108,2026-02-20,Pendrive,Accesorios,1,8000,Norte
+T00108,2026-02-20,Notebook,Computación,1,850000,Norte
+T00108,2026-02-20,Mouse,Periféricos,3,12000,Norte
+T00108,2026-02-20,Monitor,Computación,1,260000,Norte
+T00109,2026-02-20,Mouse,Periféricos,1,12000,Centro
+T00109,2026-02-20,Pilas AA x4,Accesorios,4,3500,Centro
+T00109,2026-02-20,Teclado,Periféricos,1,30000,Centro
+T00110,2026-02-20,Auriculares,Audio,2,35000,Centro
+T00110,2026-02-20,Cable USB,Accesorios,2,2500,Centro
+T00111,2026-02-20,Teclado,Periféricos,1,30000,Sur
+T00112,2026-02-21,Auriculares,Audio,1,35000,Norte
+T00112,2026-02-21,Pilas AA x4,Accesorios,2,3500,Norte
+T00113,2026-02-21,Monitor,Computación,2,260000,Sur
+T00113,2026-02-21,Mouse,Periféricos,2,12000,Sur
+T00113,2026-02-21,Pendrive,Accesorios,5,8000,Sur
+T00113,2026-02-21,Pilas AA x4,Accesorios,8,3500,Sur
+T00114,2026-02-22,Mouse,Periféricos,1,12000,Centro
+T00115,2026-02-23,Cable USB,Accesorios,10,2500,Norte
+T00115,2026-02-23,Monitor,Computación,2,260000,Norte
+T00116,2026-02-24,Cable USB,Accesorios,2,2500,Norte
+T00116,2026-02-24,Auriculares,Audio,1,35000,Norte
+T00116,2026-02-24,Notebook,Computación,1,850000,Norte
+T00116,2026-02-24,Pendrive,Accesorios,2,8000,Norte
+T00117,2026-02-24,Webcam,Periféricos,1,45000,Norte
+T00117,2026-02-24,Auriculares,Audio,1,35000,Norte
+T00117,2026-02-24,Teclado,Periféricos,1,30000,Norte
+T00117,2026-02-24,Pendrive,Accesorios,2,8000,Norte
+T00118,2026-02-25,Monitor,Computación,2,260000,Norte
+T00118,2026-02-25,Mouse,Periféricos,3,12000,Norte
+T00118,2026-02-25,Pilas AA x4,Accesorios,4,3500,Norte
+T00118,2026-02-25,Cable USB,Accesorios,4,2500,Norte
+T00119,2026-02-25,Impresora,Computación,1,180000,Norte
+T00119,2026-02-25,Cable USB,Accesorios,4,2500,Norte
+T00119,2026-02-25,Auriculares,Audio,2,35000,Norte
+T00120,2026-02-25,Pendrive,Accesorios,2,8000,Sur
+T00120,2026-02-25,Pilas AA x4,Accesorios,5,3500,Sur
+T00120,2026-02-25,Auriculares,Audio,1,35000,Sur
+T00121,2026-02-27,Cable USB,Accesorios,3,2500,Norte
+T00121,2026-02-27,Mouse,Periféricos,2,12000,Norte
+T00121,2026-02-27,Parlante,Audio,2,55000,Norte
+T00122,2026-02-27,Cable USB,Accesorios,9,2500,Centro
+T00122,2026-02-27,Teclado,Periféricos,1,30000,Centro
+T00123,2026-02-27,Pilas AA x4,Accesorios,1,3500,Sur
+T00123,2026-02-27,Parlante,Audio,2,55000,Sur
+T00123,2026-02-27,Teclado,Periféricos,1,30000,Sur
+T00124,2026-02-28,Mouse,Periféricos,2,12000,Norte
+T00124,2026-02-28,Pendrive,Accesorios,1,8000,Norte
+T00124,2026-02-28,Pilas AA x4,Accesorios,5,3500,Norte
+T00124,2026-02-28,Impresora,Computación,1,180000,Norte
+T00125,2026-03-01,Teclado,Periféricos,1,30000,Centro
+T00125,2026-03-01,Pilas AA x4,Accesorios,5,3500,Centro
+T00125,2026-03-01,Cable USB,Accesorios,7,2500,Centro
+T00125,2026-03-01,Pendrive,Accesorios,1,8000,Centro
+T00126,2026-03-01,Pilas AA x4,Accesorios,6,3500,Centro
+T00126,2026-03-01,Notebook,Computación,1,850000,Centro
+T00127,2026-03-02,Impresora,Computación,1,180000,Centro
+T00127,2026-03-02,Webcam,Periféricos,1,45000,Centro
+T00127,2026-03-02,Mouse,Periféricos,1,12000,Centro
+T00128,2026-03-03,Pilas AA x4,Accesorios,6,3500,Norte
+T00128,2026-03-03,Webcam,Periféricos,1,45000,Norte
+T00128,2026-03-03,Mouse,Periféricos,1,12000,Norte
+T00128,2026-03-03,Cable USB,Accesorios,9,2500,Norte
+T00129,2026-03-05,Pendrive,Accesorios,1,8000,Norte
+T00129,2026-03-05,Cable USB,Accesorios,7,2500,Norte
+T00129,2026-03-05,Pilas AA x4,Accesorios,8,3500,Norte
+T00130,2026-03-06,Cable USB,Accesorios,1,2500,Sur
+T00131,2026-03-06,Pilas AA x4,Accesorios,2,3500,Norte
+T00131,2026-03-06,Mouse,Periféricos,3,12000,Norte
+T00132,2026-03-06,Pilas AA x4,Accesorios,4,3500,Sur
+T00132,2026-03-06,Teclado,Periféricos,1,30000,Sur
+T00132,2026-03-06,Parlante,Audio,2,55000,Sur
+T00133,2026-03-07,Pilas AA x4,Accesorios,3,3500,Centro
+T00133,2026-03-07,Notebook,Computación,1,850000,Centro
+T00133,2026-03-07,Monitor,Computación,1,260000,Centro
+T00133,2026-03-07,Mouse,Periféricos,1,12000,Centro
+T00134,2026-03-07,Auriculares,Audio,2,35000,Sur
+T00134,2026-03-07,Pendrive,Accesorios,5,8000,Sur
+T00134,2026-03-07,Teclado,Periféricos,2,30000,Sur
+T00135,2026-03-08,Mouse,Periféricos,2,12000,Centro
+T00136,2026-03-08,Teclado,Periféricos,2,30000,Centro
+T00136,2026-03-08,Cable USB,Accesorios,9,2500,Centro
+T00136,2026-03-08,Pendrive,Accesorios,1,8000,Centro
+T00136,2026-03-08,Pilas AA x4,Accesorios,4,3500,Centro
+T00137,2026-03-08,Auriculares,Audio,1,35000,Sur
+T00137,2026-03-08,Mouse,Periféricos,2,12000,Sur
+T00137,2026-03-08,Parlante,Audio,2,55000,Sur
+T00138,2026-03-08,Monitor,Computación,1,260000,Norte
+T00138,2026-03-08,Teclado,Periféricos,2,30000,Norte
+T00138,2026-03-08,Pilas AA x4,Accesorios,8,3500,Norte
+T00138,2026-03-08,Impresora,Computación,1,180000,Norte
+T00139,2026-03-09,Pendrive,Accesorios,5,8000,Sur
+T00140,2026-03-09,Pendrive,Accesorios,1,8000,Sur
+T00140,2026-03-09,Mouse,Periféricos,3,12000,Sur
+T00140,2026-03-09,Auriculares,Audio,1,35000,Sur
+T00140,2026-03-09,Cable USB,Accesorios,9,2500,Sur
+T00141,2026-03-10,Pilas AA x4,Accesorios,6,3500,Centro
+T00141,2026-03-10,Pendrive,Accesorios,2,8000,Centro
+T00142,2026-03-10,Notebook,Computación,1,850000,Norte
+T00142,2026-03-10,Teclado,Periféricos,2,30000,Norte
+T00142,2026-03-10,Auriculares,Audio,2,35000,Norte
+T00143,2026-03-10,Pendrive,Accesorios,2,8000,Norte
+T00144,2026-03-10,Mouse,Periféricos,3,12000,Norte
+T00144,2026-03-10,Auriculares,Audio,2,35000,Norte
+T00144,2026-03-10,Pilas AA x4,Accesorios,7,3500,Norte
+T00145,2026-03-11,Pendrive,Accesorios,1,8000,Sur
+T00146,2026-03-12,Pilas AA x4,Accesorios,1,3500,Centro
+T00147,2026-03-12,Cable USB,Accesorios,1,2500,Sur
+T00147,2026-03-12,Notebook,Computación,1,850000,Sur
+T00147,2026-03-12,Webcam,Periféricos,1,45000,Sur
+T00148,2026-03-13,Pendrive,Accesorios,4,8000,Centro
+T00148,2026-03-13,Cable USB,Accesorios,4,2500,Centro
+T00149,2026-03-14,Mouse,Periféricos,1,12000,Centro
+T00150,2026-03-15,Teclado,Periféricos,2,30000,Centro
+T00151,2026-03-15,Pilas AA x4,Accesorios,7,3500,Norte
+T00152,2026-03-15,Teclado,Periféricos,1,30000,Centro
+T00153,2026-03-16,Impresora,Computación,1,180000,Norte
+T00154,2026-03-16,Webcam,Periféricos,1,45000,Centro
+T00154,2026-03-16,Pilas AA x4,Accesorios,5,3500,Centro
+T00155,2026-03-16,Notebook,Computación,1,850000,Centro
+T00155,2026-03-16,Auriculares,Audio,2,35000,Centro
+T00156,2026-03-16,Webcam,Periféricos,1,45000,Centro
+T00156,2026-03-16,Teclado,Periféricos,1,30000,Centro
+T00156,2026-03-16,Mouse,Periféricos,1,12000,Centro
+T00156,2026-03-16,Pendrive,Accesorios,2,8000,Centro
+T00157,2026-03-16,Monitor,Computación,2,260000,Norte
+T00157,2026-03-16,Cable USB,Accesorios,8,2500,Norte
+T00157,2026-03-16,Pendrive,Accesorios,1,8000,Norte
+T00157,2026-03-16,Pilas AA x4,Accesorios,6,3500,Norte
+T00158,2026-03-16,Cable USB,Accesorios,9,2500,Norte
+T00158,2026-03-16,Parlante,Audio,1,55000,Norte
+T00159,2026-03-17,Parlante,Audio,1,55000,Sur
+T00159,2026-03-17,Monitor,Computación,2,260000,Sur
+T00160,2026-03-17,Webcam,Periféricos,1,45000,Sur
+T00161,2026-03-18,Auriculares,Audio,1,35000,Norte
+T00162,2026-03-19,Pilas AA x4,Accesorios,5,3500,Norte
+T00162,2026-03-19,Cable USB,Accesorios,9,2500,Norte
+T00162,2026-03-19,Mouse,Periféricos,2,12000,Norte
+T00162,2026-03-19,Teclado,Periféricos,1,30000,Norte
+T00163,2026-03-19,Pilas AA x4,Accesorios,7,3500,Norte
+T00163,2026-03-19,Parlante,Audio,1,55000,Norte
+T00163,2026-03-19,Teclado,Periféricos,2,30000,Norte
+T00163,2026-03-19,Mouse,Periféricos,3,12000,Norte
+T00164,2026-03-20,Teclado,Periféricos,1,30000,Norte
+T00164,2026-03-20,Pendrive,Accesorios,3,8000,Norte
+T00165,2026-03-20,Pilas AA x4,Accesorios,7,3500,Centro
+T00165,2026-03-20,Cable USB,Accesorios,7,2500,Centro
+T00165,2026-03-20,Mouse,Periféricos,1,12000,Centro
+T00165,2026-03-20,Parlante,Audio,1,55000,Centro
+T00166,2026-03-20,Pilas AA x4,Accesorios,3,3500,Sur
+T00167,2026-03-21,Cable USB,Accesorios,3,2500,Centro
+T00167,2026-03-21,Teclado,Periféricos,1,30000,Centro
+T00168,2026-03-21,Auriculares,Audio,1,35000,Sur
+T00168,2026-03-21,Parlante,Audio,2,55000,Sur
+T00168,2026-03-21,Mouse,Periféricos,1,12000,Sur
+T00169,2026-03-22,Pilas AA x4,Accesorios,2,3500,Norte
+T00170,2026-03-22,Notebook,Computación,1,850000,Sur
+T00170,2026-03-22,Auriculares,Audio,1,35000,Sur
+T00170,2026-03-22,Pilas AA x4,Accesorios,4,3500,Sur
+T00170,2026-03-22,Monitor,Computación,1,260000,Sur
+T00171,2026-03-22,Mouse,Periféricos,3,12000,Norte
+T00171,2026-03-22,Pendrive,Accesorios,2,8000,Norte
+T00172,2026-03-22,Webcam,Periféricos,1,45000,Sur
+T00172,2026-03-22,Pendrive,Accesorios,5,8000,Sur
+T00172,2026-03-22,Auriculares,Audio,1,35000,Sur
+T00172,2026-03-22,Mouse,Periféricos,1,12000,Sur
+T00173,2026-03-22,Cable USB,Accesorios,7,2500,Sur
+T00173,2026-03-22,Auriculares,Audio,1,35000,Sur
+T00173,2026-03-22,Parlante,Audio,2,55000,Sur
+T00173,2026-03-22,Pilas AA x4,Accesorios,1,3500,Sur
+T00174,2026-03-22,Auriculares,Audio,2,35000,Centro
+T00174,2026-03-22,Cable USB,Accesorios,10,2500,Centro
+T00175,2026-03-23,Teclado,Periféricos,2,30000,Norte
+T00175,2026-03-23,Auriculares,Audio,2,35000,Norte
+T00176,2026-03-23,Monitor,Computación,2,260000,Norte
+T00176,2026-03-23,Parlante,Audio,1,55000,Norte
+T00176,2026-03-23,Pilas AA x4,Accesorios,1,3500,Norte
+T00177,2026-03-23,Mouse,Periféricos,3,12000,Sur
+T00178,2026-03-25,Pendrive,Accesorios,4,8000,Norte
+T00179,2026-03-25,Auriculares,Audio,2,35000,Centro
+T00180,2026-03-25,Cable USB,Accesorios,6,2500,Centro
+T00180,2026-03-25,Monitor,Computación,2,260000,Centro
+T00181,2026-03-26,Pilas AA x4,Accesorios,2,3500,Centro
+T00181,2026-03-26,Notebook,Computación,1,850000,Centro
+T00181,2026-03-26,Impresora,Computación,1,180000,Centro
+T00181,2026-03-26,Teclado,Periféricos,1,30000,Centro
+T00182,2026-03-26,Auriculares,Audio,2,35000,Centro
+T00183,2026-03-28,Impresora,Computación,1,180000,Centro
+T00183,2026-03-28,Pendrive,Accesorios,3,8000,Centro
+T00184,2026-03-29,Impresora,Computación,1,180000,Sur
+T00185,2026-03-29,Pendrive,Accesorios,5,8000,Sur
+T00185,2026-03-29,Pilas AA x4,Accesorios,1,3500,Sur
+T00185,2026-03-29,Teclado,Periféricos,1,30000,Sur
+T00186,2026-03-30,Pendrive,Accesorios,2,8000,Centro
+T00186,2026-03-30,Monitor,Computación,1,260000,Centro
+T00186,2026-03-30,Parlante,Audio,1,55000,Centro
+T00186,2026-03-30,Pilas AA x4,Accesorios,4,3500,Centro
+T00187,2026-03-30,Parlante,Audio,2,55000,Sur
+T00187,2026-03-30,Pendrive,Accesorios,4,8000,Sur
+T00187,2026-03-30,Pilas AA x4,Accesorios,1,3500,Sur
+T00187,2026-03-30,Cable USB,Accesorios,5,2500,Sur
+T00188,2026-03-31,Mouse,Periféricos,1,12000,Sur
+T00189,2026-03-31,Webcam,Periféricos,1,45000,Norte
+T00189,2026-03-31,Teclado,Periféricos,2,30000,Norte
+T00189,2026-03-31,Cable USB,Accesorios,2,2500,Norte
+T00189,2026-03-31,Pendrive,Accesorios,2,8000,Norte
+T00190,2026-04-01,Teclado,Periféricos,2,30000,Sur
+T00190,2026-04-01,Pendrive,Accesorios,1,8000,Sur
+T00190,2026-04-01,Mouse,Periféricos,1,12000,Sur
+T00190,2026-04-01,Pilas AA x4,Accesorios,4,3500,Sur
+T00191,2026-04-01,Cable USB,Accesorios,6,2500,Norte
+T00192,2026-04-01,Cable USB,Accesorios,7,2500,Centro
+T00192,2026-04-01,Mouse,Periféricos,2,12000,Centro
+T00192,2026-04-01,Monitor,Computación,1,260000,Centro
+T00193,2026-04-01,Webcam,Periféricos,1,45000,Centro
+T00193,2026-04-01,Pilas AA x4,Accesorios,7,3500,Centro
+T00194,2026-04-02,Mouse,Periféricos,2,12000,Sur
+T00194,2026-04-02,Notebook,Computación,1,850000,Sur
+T00194,2026-04-02,Pendrive,Accesorios,3,8000,Sur
+T00194,2026-04-02,Cable USB,Accesorios,7,2500,Sur
+T00195,2026-04-02,Pendrive,Accesorios,2,8000,Sur
+T00195,2026-04-02,Monitor,Computación,1,260000,Sur
+T00195,2026-04-02,Parlante,Audio,2,55000,Sur
+T00196,2026-04-02,Pendrive,Accesorios,4,8000,Norte
+T00196,2026-04-02,Pilas AA x4,Accesorios,7,3500,Norte
+T00197,2026-04-02,Mouse,Periféricos,2,12000,Sur
+T00198,2026-04-03,Mouse,Periféricos,1,12000,Sur
+T00198,2026-04-03,Teclado,Periféricos,1,30000,Sur
+T00198,2026-04-03,Monitor,Computación,1,260000,Sur
+T00198,2026-04-03,Cable USB,Accesorios,10,2500,Sur
+T00199,2026-04-04,Pendrive,Accesorios,5,8000,Norte
+T00199,2026-04-04,Monitor,Computación,2,260000,Norte
+T00200,2026-04-05,Parlante,Audio,2,55000,Norte
+T00200,2026-04-05,Pilas AA x4,Accesorios,2,3500,Norte
+T00200,2026-04-05,Cable USB,Accesorios,2,2500,Norte
+T00201,2026-04-05,Pendrive,Accesorios,5,8000,Centro
+T00202,2026-04-06,Mouse,Periféricos,1,12000,Sur
+T00202,2026-04-06,Notebook,Computación,1,850000,Sur
+T00202,2026-04-06,Auriculares,Audio,1,35000,Sur
+T00202,2026-04-06,Webcam,Periféricos,1,45000,Sur
+T00203,2026-04-07,Cable USB,Accesorios,7,2500,Centro
+T00204,2026-04-07,Pilas AA x4,Accesorios,5,3500,Sur
+T00204,2026-04-07,Webcam,Periféricos,1,45000,Sur
+T00205,2026-04-09,Monitor,Computación,1,260000,Norte
+T00205,2026-04-09,Mouse,Periféricos,2,12000,Norte
+T00206,2026-04-10,Monitor,Computación,2,260000,Norte
+T00206,2026-04-10,Mouse,Periféricos,2,12000,Norte
+T00207,2026-04-10,Teclado,Periféricos,2,30000,Norte
+T00207,2026-04-10,Auriculares,Audio,2,35000,Norte
+T00207,2026-04-10,Parlante,Audio,2,55000,Norte
+T00207,2026-04-10,Mouse,Periféricos,3,12000,Norte
+T00208,2026-04-10,Teclado,Periféricos,2,30000,Centro
+T00209,2026-04-10,Teclado,Periféricos,2,30000,Centro
+T00209,2026-04-10,Cable USB,Accesorios,3,2500,Centro
+T00209,2026-04-10,Mouse,Periféricos,1,12000,Centro
+T00210,2026-04-12,Pendrive,Accesorios,2,8000,Sur
+T00211,2026-04-12,Auriculares,Audio,2,35000,Centro
+T00212,2026-04-13,Webcam,Periféricos,1,45000,Sur
+T00212,2026-04-13,Pilas AA x4,Accesorios,4,3500,Sur
+T00212,2026-04-13,Auriculares,Audio,1,35000,Sur
+T00212,2026-04-13,Mouse,Periféricos,1,12000,Sur
+T00213,2026-04-13,Pendrive,Accesorios,1,8000,Centro
+T00213,2026-04-13,Webcam,Periféricos,1,45000,Centro
+T00213,2026-04-13,Mouse,Periféricos,3,12000,Centro
+T00214,2026-04-13,Auriculares,Audio,2,35000,Sur
+T00214,2026-04-13,Webcam,Periféricos,1,45000,Sur
+T00214,2026-04-13,Mouse,Periféricos,3,12000,Sur
+T00215,2026-04-13,Mouse,Periféricos,2,12000,Sur
+T00215,2026-04-13,Webcam,Periféricos,1,45000,Sur
+T00216,2026-04-14,Auriculares,Audio,2,35000,Norte
+T00216,2026-04-14,Pilas AA x4,Accesorios,5,3500,Norte
+T00216,2026-04-14,Monitor,Computación,2,260000,Norte
+T00217,2026-04-15,Monitor,Computación,2,260000,Centro
+T00218,2026-04-16,Mouse,Periféricos,2,12000,Sur
+T00218,2026-04-16,Pendrive,Accesorios,5,8000,Sur
+T00218,2026-04-16,Cable USB,Accesorios,5,2500,Sur
+T00219,2026-04-16,Notebook,Computación,1,850000,Norte
+T00220,2026-04-16,Auriculares,Audio,1,35000,Sur
+T00220,2026-04-16,Teclado,Periféricos,1,30000,Sur
+T00220,2026-04-16,Notebook,Computación,1,850000,Sur
+T00221,2026-04-17,Monitor,Computación,1,260000,Norte
+T00221,2026-04-17,Pendrive,Accesorios,4,8000,Norte
+T00221,2026-04-17,Notebook,Computación,1,850000,Norte
+T00221,2026-04-17,Cable USB,Accesorios,10,2500,Norte
+T00222,2026-04-17,Monitor,Computación,2,260000,Norte
+T00222,2026-04-17,Pilas AA x4,Accesorios,5,3500,Norte
+T00222,2026-04-17,Auriculares,Audio,2,35000,Norte
+T00222,2026-04-17,Cable USB,Accesorios,5,2500,Norte
+T00223,2026-04-17,Mouse,Periféricos,2,12000,Norte
+T00224,2026-04-17,Pendrive,Accesorios,2,8000,Norte
+T00224,2026-04-17,Parlante,Audio,1,55000,Norte
+T00224,2026-04-17,Cable USB,Accesorios,1,2500,Norte
+T00225,2026-04-17,Mouse,Periféricos,3,12000,Sur
+T00225,2026-04-17,Cable USB,Accesorios,1,2500,Sur
+T00226,2026-04-18,Pilas AA x4,Accesorios,1,3500,Sur
+T00226,2026-04-18,Pendrive,Accesorios,3,8000,Sur
+T00227,2026-04-18,Parlante,Audio,1,55000,Sur
+T00227,2026-04-18,Monitor,Computación,2,260000,Sur
+T00227,2026-04-18,Teclado,Periféricos,1,30000,Sur
+T00228,2026-04-19,Cable USB,Accesorios,9,2500,Centro
+T00228,2026-04-19,Pendrive,Accesorios,3,8000,Centro
+T00228,2026-04-19,Pilas AA x4,Accesorios,5,3500,Centro
+T00228,2026-04-19,Impresora,Computación,1,180000,Centro
+T00229,2026-04-19,Teclado,Periféricos,1,30000,Norte
+T00229,2026-04-19,Pilas AA x4,Accesorios,7,3500,Norte
+T00229,2026-04-19,Webcam,Periféricos,1,45000,Norte
+T00229,2026-04-19,Cable USB,Accesorios,6,2500,Norte
+T00230,2026-04-19,Pilas AA x4,Accesorios,5,3500,Sur
+T00230,2026-04-19,Pendrive,Accesorios,3,8000,Sur
+T00230,2026-04-19,Auriculares,Audio,2,35000,Sur
+T00231,2026-04-19,Cable USB,Accesorios,8,2500,Centro
+T00231,2026-04-19,Teclado,Periféricos,2,30000,Centro
+T00231,2026-04-19,Mouse,Periféricos,1,12000,Centro
+T00231,2026-04-19,Parlante,Audio,2,55000,Centro
+T00232,2026-04-19,Auriculares,Audio,1,35000,Sur
+T00232,2026-04-19,Cable USB,Accesorios,4,2500,Sur
+T00232,2026-04-19,Teclado,Periféricos,1,30000,Sur
+T00233,2026-04-20,Pilas AA x4,Accesorios,4,3500,Norte
+T00234,2026-04-20,Webcam,Periféricos,1,45000,Sur
+T00235,2026-04-21,Mouse,Periféricos,2,12000,Norte
+T00235,2026-04-21,Cable USB,Accesorios,10,2500,Norte
+T00235,2026-04-21,Pendrive,Accesorios,1,8000,Norte
+T00235,2026-04-21,Webcam,Periféricos,1,45000,Norte
+T00236,2026-04-22,Monitor,Computación,2,260000,Norte
+T00236,2026-04-22,Mouse,Periféricos,1,12000,Norte
+T00236,2026-04-22,Pendrive,Accesorios,4,8000,Norte
+T00237,2026-04-22,Mouse,Periféricos,1,12000,Sur
+T00237,2026-04-22,Parlante,Audio,2,55000,Sur
+T00237,2026-04-22,Pilas AA x4,Accesorios,5,3500,Sur
+T00238,2026-04-22,Pilas AA x4,Accesorios,6,3500,Sur
+T00238,2026-04-22,Auriculares,Audio,2,35000,Sur
+T00238,2026-04-22,Monitor,Computación,2,260000,Sur
+T00238,2026-04-22,Mouse,Periféricos,3,12000,Sur
+T00239,2026-04-22,Auriculares,Audio,1,35000,Centro
+T00239,2026-04-22,Cable USB,Accesorios,1,2500,Centro
+T00239,2026-04-22,Mouse,Periféricos,1,12000,Centro
+T00239,2026-04-22,Monitor,Computación,2,260000,Centro
+T00240,2026-04-23,Auriculares,Audio,1,35000,Sur
+T00240,2026-04-23,Pilas AA x4,Accesorios,3,3500,Sur
+T00240,2026-04-23,Pendrive,Accesorios,3,8000,Sur
+T00241,2026-04-23,Pendrive,Accesorios,5,8000,Sur
+T00241,2026-04-23,Mouse,Periféricos,3,12000,Sur
+T00241,2026-04-23,Monitor,Computación,2,260000,Sur
+T00241,2026-04-23,Webcam,Periféricos,1,45000,Sur
+T00242,2026-04-24,Pendrive,Accesorios,3,8000,Sur
+T00242,2026-04-24,Auriculares,Audio,2,35000,Sur
+T00242,2026-04-24,Cable USB,Accesorios,8,2500,Sur
+T00242,2026-04-24,Pilas AA x4,Accesorios,6,3500,Sur
+T00243,2026-04-26,Notebook,Computación,1,850000,Norte
+T00243,2026-04-26,Mouse,Periféricos,3,12000,Norte
+T00243,2026-04-26,Pilas AA x4,Accesorios,7,3500,Norte
+T00243,2026-04-26,Teclado,Periféricos,2,30000,Norte
+T00244,2026-04-26,Webcam,Periféricos,1,45000,Centro
+T00244,2026-04-26,Parlante,Audio,2,55000,Centro
+T00244,2026-04-26,Mouse,Periféricos,1,12000,Centro
+T00244,2026-04-26,Auriculares,Audio,2,35000,Centro
+T00245,2026-04-26,Webcam,Periféricos,1,45000,Norte
+T00245,2026-04-26,Pilas AA x4,Accesorios,1,3500,Norte
+T00245,2026-04-26,Mouse,Periféricos,1,12000,Norte
+T00246,2026-04-26,Monitor,Computación,1,260000,Centro
+T00247,2026-04-26,Pendrive,Accesorios,2,8000,Norte
+T00247,2026-04-26,Cable USB,Accesorios,6,2500,Norte
+T00248,2026-04-26,Monitor,Computación,2,260000,Norte
+T00248,2026-04-26,Webcam,Periféricos,1,45000,Norte
+T00248,2026-04-26,Mouse,Periféricos,3,12000,Norte
+T00249,2026-04-27,Mouse,Periféricos,2,12000,Norte
+T00249,2026-04-27,Cable USB,Accesorios,10,2500,Norte
+T00249,2026-04-27,Notebook,Computación,1,850000,Norte
+T00250,2026-04-27,Pendrive,Accesorios,2,8000,Sur
+T00250,2026-04-27,Pilas AA x4,Accesorios,3,3500,Sur
+T00251,2026-04-27,Pilas AA x4,Accesorios,5,3500,Norte
+T00252,2026-04-28,Pilas AA x4,Accesorios,5,3500,Norte
+T00253,2026-04-28,Pilas AA x4,Accesorios,8,3500,Centro
+T00253,2026-04-28,Auriculares,Audio,2,35000,Centro
+T00253,2026-04-28,Cable USB,Accesorios,4,2500,Centro
+T00254,2026-04-28,Mouse,Periféricos,1,12000,Norte
+T00254,2026-04-28,Pendrive,Accesorios,3,8000,Norte
+T00254,2026-04-28,Cable USB,Accesorios,8,2500,Norte
+T00254,2026-04-28,Teclado,Periféricos,1,30000,Norte
+T00255,2026-04-28,Impresora,Computación,1,180000,Centro
+T00255,2026-04-28,Pilas AA x4,Accesorios,6,3500,Centro
+T00256,2026-04-29,Mouse,Periféricos,1,12000,Centro
+T00256,2026-04-29,Parlante,Audio,2,55000,Centro
+T00256,2026-04-29,Pendrive,Accesorios,2,8000,Centro
+T00256,2026-04-29,Teclado,Periféricos,1,30000,Centro
+T00257,2026-04-29,Teclado,Periféricos,1,30000,Sur
+T00257,2026-04-29,Webcam,Periféricos,1,45000,Sur
+T00257,2026-04-29,Pilas AA x4,Accesorios,4,3500,Sur
+T00257,2026-04-29,Pendrive,Accesorios,2,8000,Sur
+T00258,2026-04-29,Pilas AA x4,Accesorios,4,3500,Norte
+T00259,2026-04-30,Cable USB,Accesorios,10,2500,Sur
+T00260,2026-04-30,Teclado,Periféricos,2,30000,Norte
+T00260,2026-04-30,Pendrive,Accesorios,1,8000,Norte
+T00260,2026-04-30,Cable USB,Accesorios,3,2500,Norte
+T00260,2026-04-30,Mouse,Periféricos,2,12000,Norte
+T00261,2026-04-30,Notebook,Computación,1,850000,Sur
+T00261,2026-04-30,Pendrive,Accesorios,2,8000,Sur
+T00262,2026-05-01,Pilas AA x4,Accesorios,7,3500,Norte
+T00262,2026-05-01,Impresora,Computación,1,180000,Norte
+T00262,2026-05-01,Cable USB,Accesorios,7,2500,Norte
+T00263,2026-05-01,Cable USB,Accesorios,10,2500,Sur
+T00263,2026-05-01,Mouse,Periféricos,1,12000,Sur
+T00263,2026-05-01,Pilas AA x4,Accesorios,3,3500,Sur
+T00264,2026-05-02,Monitor,Computación,2,260000,Norte
+T00265,2026-05-02,Mouse,Periféricos,3,12000,Centro
+T00265,2026-05-02,Cable USB,Accesorios,9,2500,Centro
+T00265,2026-05-02,Teclado,Periféricos,1,30000,Centro
+T00265,2026-05-02,Impresora,Computación,1,180000,Centro
+T00266,2026-05-03,Mouse,Periféricos,2,12000,Centro
+T00267,2026-05-03,Pilas AA x4,Accesorios,3,3500,Norte
+T00267,2026-05-03,Mouse,Periféricos,1,12000,Norte
+T00267,2026-05-03,Auriculares,Audio,2,35000,Norte
+T00268,2026-05-03,Monitor,Computación,1,260000,Sur
+T00268,2026-05-03,Pendrive,Accesorios,4,8000,Sur
+T00269,2026-05-04,Teclado,Periféricos,1,30000,Sur
+T00269,2026-05-04,Pendrive,Accesorios,2,8000,Sur
+T00269,2026-05-04,Webcam,Periféricos,1,45000,Sur
+T00270,2026-05-04,Parlante,Audio,1,55000,Sur
+T00270,2026-05-04,Pendrive,Accesorios,4,8000,Sur
+T00270,2026-05-04,Teclado,Periféricos,1,30000,Sur
+T00271,2026-05-04,Auriculares,Audio,2,35000,Sur
+T00271,2026-05-04,Mouse,Periféricos,1,12000,Sur
+T00272,2026-05-05,Cable USB,Accesorios,8,2500,Norte
+T00272,2026-05-05,Parlante,Audio,2,55000,Norte
+T00272,2026-05-05,Teclado,Periféricos,2,30000,Norte
+T00273,2026-05-06,Impresora,Computación,1,180000,Sur
+T00273,2026-05-06,Pilas AA x4,Accesorios,4,3500,Sur
+T00273,2026-05-06,Cable USB,Accesorios,10,2500,Sur
+T00274,2026-05-06,Mouse,Periféricos,3,12000,Centro
+T00275,2026-05-06,Impresora,Computación,1,180000,Centro
+T00275,2026-05-06,Parlante,Audio,2,55000,Centro
+T00275,2026-05-06,Cable USB,Accesorios,9,2500,Centro
+T00275,2026-05-06,Mouse,Periféricos,1,12000,Centro
+T00276,2026-05-06,Webcam,Periféricos,1,45000,Norte
+T00276,2026-05-06,Mouse,Periféricos,3,12000,Norte
+T00276,2026-05-06,Teclado,Periféricos,2,30000,Norte
+T00276,2026-05-06,Pendrive,Accesorios,4,8000,Norte
+T00277,2026-05-06,Teclado,Periféricos,1,30000,Centro
+T00277,2026-05-06,Cable USB,Accesorios,6,2500,Centro
+T00278,2026-05-08,Cable USB,Accesorios,8,2500,Norte
+T00278,2026-05-08,Mouse,Periféricos,1,12000,Norte
+T00278,2026-05-08,Pendrive,Accesorios,1,8000,Norte
+T00279,2026-05-08,Cable USB,Accesorios,9,2500,Sur
+T00280,2026-05-08,Mouse,Periféricos,2,12000,Norte
+T00280,2026-05-08,Parlante,Audio,2,55000,Norte
+T00281,2026-05-08,Auriculares,Audio,1,35000,Norte
+T00281,2026-05-08,Teclado,Periféricos,2,30000,Norte
+T00281,2026-05-08,Parlante,Audio,1,55000,Norte
+T00282,2026-05-08,Teclado,Periféricos,1,30000,Centro
+T00283,2026-05-09,Mouse,Periféricos,3,12000,Norte
+T00283,2026-05-09,Teclado,Periféricos,1,30000,Norte
+T00284,2026-05-09,Pilas AA x4,Accesorios,2,3500,Centro
+T00284,2026-05-09,Impresora,Computación,1,180000,Centro
+T00284,2026-05-09,Teclado,Periféricos,2,30000,Centro
+T00285,2026-05-09,Mouse,Periféricos,1,12000,Norte
+T00285,2026-05-09,Pendrive,Accesorios,3,8000,Norte
+T00285,2026-05-09,Cable USB,Accesorios,9,2500,Norte
+T00285,2026-05-09,Pilas AA x4,Accesorios,2,3500,Norte
+T00286,2026-05-10,Cable USB,Accesorios,10,2500,Sur
+T00286,2026-05-10,Parlante,Audio,1,55000,Sur
+T00286,2026-05-10,Auriculares,Audio,2,35000,Sur
+T00287,2026-05-10,Cable USB,Accesorios,4,2500,Norte
+T00288,2026-05-10,Teclado,Periféricos,1,30000,Centro
+T00288,2026-05-10,Notebook,Computación,1,850000,Centro
+T00288,2026-05-10,Pilas AA x4,Accesorios,7,3500,Centro
+T00288,2026-05-10,Mouse,Periféricos,2,12000,Centro
+T00289,2026-05-10,Pilas AA x4,Accesorios,7,3500,Norte
+T00289,2026-05-10,Cable USB,Accesorios,9,2500,Norte
+T00289,2026-05-10,Parlante,Audio,1,55000,Norte
+T00290,2026-05-11,Cable USB,Accesorios,7,2500,Norte
+T00290,2026-05-11,Parlante,Audio,2,55000,Norte
+T00290,2026-05-11,Teclado,Periféricos,2,30000,Norte
+T00290,2026-05-11,Auriculares,Audio,2,35000,Norte
+T00291,2026-05-11,Mouse,Periféricos,2,12000,Centro
+T00291,2026-05-11,Cable USB,Accesorios,6,2500,Centro
+T00292,2026-05-12,Teclado,Periféricos,2,30000,Norte
+T00292,2026-05-12,Mouse,Periféricos,2,12000,Norte
+T00292,2026-05-12,Parlante,Audio,1,55000,Norte
+T00292,2026-05-12,Cable USB,Accesorios,7,2500,Norte
+T00293,2026-05-12,Cable USB,Accesorios,5,2500,Sur
+T00293,2026-05-12,Parlante,Audio,2,55000,Sur
+T00293,2026-05-12,Pilas AA x4,Accesorios,2,3500,Sur
+T00293,2026-05-12,Pendrive,Accesorios,5,8000,Sur
+T00294,2026-05-12,Pendrive,Accesorios,2,8000,Centro
+T00295,2026-05-12,Mouse,Periféricos,1,12000,Centro
+T00296,2026-05-13,Teclado,Periféricos,2,30000,Centro
+T00296,2026-05-13,Cable USB,Accesorios,10,2500,Centro
+T00296,2026-05-13,Pilas AA x4,Accesorios,2,3500,Centro
+T00297,2026-05-13,Auriculares,Audio,2,35000,Norte
+T00297,2026-05-13,Mouse,Periféricos,1,12000,Norte
+T00298,2026-05-13,Teclado,Periféricos,1,30000,Norte
+T00298,2026-05-13,Pilas AA x4,Accesorios,8,3500,Norte
+T00298,2026-05-13,Parlante,Audio,1,55000,Norte
+T00299,2026-05-14,Mouse,Periféricos,2,12000,Norte
+T00299,2026-05-14,Pendrive,Accesorios,3,8000,Norte
+T00299,2026-05-14,Pilas AA x4,Accesorios,6,3500,Norte
+T00299,2026-05-14,Cable USB,Accesorios,7,2500,Norte
+T00300,2026-05-14,Mouse,Periféricos,2,12000,Norte
+T00301,2026-05-14,Pendrive,Accesorios,2,8000,Centro
+T00301,2026-05-14,Monitor,Computación,2,260000,Centro
+T00301,2026-05-14,Impresora,Computación,1,180000,Centro
+T00301,2026-05-14,Mouse,Periféricos,1,12000,Centro
+T00302,2026-05-14,Cable USB,Accesorios,7,2500,Norte
+T00302,2026-05-14,Mouse,Periféricos,2,12000,Norte
+T00302,2026-05-14,Pilas AA x4,Accesorios,2,3500,Norte
+T00302,2026-05-14,Parlante,Audio,2,55000,Norte
+T00303,2026-05-14,Pendrive,Accesorios,4,8000,Centro
+T00303,2026-05-14,Pilas AA x4,Accesorios,8,3500,Centro
+T00304,2026-05-15,Pilas AA x4,Accesorios,1,3500,Norte
+T00304,2026-05-15,Auriculares,Audio,1,35000,Norte
+T00304,2026-05-15,Mouse,Periféricos,2,12000,Norte
+T00304,2026-05-15,Cable USB,Accesorios,8,2500,Norte
+T00305,2026-05-15,Cable USB,Accesorios,9,2500,Centro
+T00305,2026-05-15,Pendrive,Accesorios,2,8000,Centro
+T00305,2026-05-15,Webcam,Periféricos,1,45000,Centro
+T00306,2026-05-15,Pilas AA x4,Accesorios,8,3500,Sur
+T00306,2026-05-15,Teclado,Periféricos,2,30000,Sur
+T00306,2026-05-15,Cable USB,Accesorios,5,2500,Sur
+T00307,2026-05-16,Mouse,Periféricos,2,12000,Centro
+T00307,2026-05-16,Impresora,Computación,1,180000,Centro
+T00308,2026-05-17,Pilas AA x4,Accesorios,2,3500,Norte
+T00308,2026-05-17,Cable USB,Accesorios,10,2500,Norte
+T00308,2026-05-17,Mouse,Periféricos,1,12000,Norte
+T00308,2026-05-17,Parlante,Audio,2,55000,Norte
+T00309,2026-05-18,Webcam,Periféricos,1,45000,Norte
+T00310,2026-05-18,Pendrive,Accesorios,4,8000,Norte
+T00311,2026-05-19,Teclado,Periféricos,2,30000,Norte
+T00312,2026-05-20,Mouse,Periféricos,3,12000,Sur
+T00313,2026-05-20,Cable USB,Accesorios,1,2500,Centro
+T00313,2026-05-20,Teclado,Periféricos,2,30000,Centro
+T00313,2026-05-20,Auriculares,Audio,2,35000,Centro
+T00313,2026-05-20,Pendrive,Accesorios,3,8000,Centro
+T00314,2026-05-20,Cable USB,Accesorios,5,2500,Norte
+T00314,2026-05-20,Pendrive,Accesorios,3,8000,Norte
+T00314,2026-05-20,Pilas AA x4,Accesorios,3,3500,Norte
+T00315,2026-05-20,Pilas AA x4,Accesorios,1,3500,Centro
+T00315,2026-05-20,Teclado,Periféricos,2,30000,Centro
+T00316,2026-05-20,Impresora,Computación,1,180000,Centro
+T00316,2026-05-20,Pilas AA x4,Accesorios,5,3500,Centro
+T00316,2026-05-20,Mouse,Periféricos,1,12000,Centro
+T00317,2026-05-20,Cable USB,Accesorios,3,2500,Norte
+T00317,2026-05-20,Pendrive,Accesorios,1,8000,Norte
+T00318,2026-05-21,Cable USB,Accesorios,7,2500,Norte
+T00318,2026-05-21,Pendrive,Accesorios,5,8000,Norte
+T00319,2026-05-21,Pilas AA x4,Accesorios,1,3500,Centro
+T00319,2026-05-21,Monitor,Computación,1,260000,Centro
+T00319,2026-05-21,Notebook,Computación,1,850000,Centro
+T00319,2026-05-21,Webcam,Periféricos,1,45000,Centro
+T00320,2026-05-21,Webcam,Periféricos,1,45000,Norte
+T00320,2026-05-21,Mouse,Periféricos,3,12000,Norte
+T00320,2026-05-21,Monitor,Computación,2,260000,Norte
+T00320,2026-05-21,Auriculares,Audio,2,35000,Norte
+T00321,2026-05-22,Webcam,Periféricos,1,45000,Norte
+T00321,2026-05-22,Mouse,Periféricos,1,12000,Norte
+T00321,2026-05-22,Impresora,Computación,1,180000,Norte
+T00322,2026-05-23,Pilas AA x4,Accesorios,4,3500,Centro
+T00322,2026-05-23,Auriculares,Audio,1,35000,Centro
+T00323,2026-05-23,Pendrive,Accesorios,4,8000,Norte
+T00323,2026-05-23,Pilas AA x4,Accesorios,2,3500,Norte
+T00323,2026-05-23,Webcam,Periféricos,1,45000,Norte
+T00324,2026-05-23,Pendrive,Accesorios,2,8000,Centro
+T00324,2026-05-23,Auriculares,Audio,1,35000,Centro
+T00324,2026-05-23,Cable USB,Accesorios,5,2500,Centro
+T00324,2026-05-23,Webcam,Periféricos,1,45000,Centro
+T00325,2026-05-23,Pilas AA x4,Accesorios,2,3500,Centro
+T00325,2026-05-23,Monitor,Computación,1,260000,Centro
+T00326,2026-05-23,Pilas AA x4,Accesorios,1,3500,Norte
+T00326,2026-05-23,Parlante,Audio,1,55000,Norte
+T00326,2026-05-23,Mouse,Periféricos,1,12000,Norte
+T00327,2026-05-24,Auriculares,Audio,1,35000,Centro
+T00328,2026-05-24,Mouse,Periféricos,2,12000,Sur
+T00328,2026-05-24,Auriculares,Audio,1,35000,Sur
+T00328,2026-05-24,Notebook,Computación,1,850000,Sur
+T00328,2026-05-24,Teclado,Periféricos,1,30000,Sur
+T00329,2026-05-24,Webcam,Periféricos,1,45000,Norte
+T00330,2026-05-24,Mouse,Periféricos,2,12000,Centro
+T00330,2026-05-24,Monitor,Computación,2,260000,Centro
+T00330,2026-05-24,Pilas AA x4,Accesorios,3,3500,Centro
+T00331,2026-05-25,Parlante,Audio,1,55000,Norte
+T00332,2026-05-25,Cable USB,Accesorios,4,2500,Centro
+T00332,2026-05-25,Pilas AA x4,Accesorios,3,3500,Centro
+T00332,2026-05-25,Auriculares,Audio,2,35000,Centro
+T00333,2026-05-26,Cable USB,Accesorios,7,2500,Sur
+T00333,2026-05-26,Mouse,Periféricos,3,12000,Sur
+T00334,2026-05-26,Pilas AA x4,Accesorios,6,3500,Centro
+T00334,2026-05-26,Auriculares,Audio,1,35000,Centro
+T00335,2026-05-27,Auriculares,Audio,2,35000,Centro
+T00336,2026-05-27,Pilas AA x4,Accesorios,2,3500,Sur
+T00336,2026-05-27,Teclado,Periféricos,2,30000,Sur
+T00337,2026-05-27,Pendrive,Accesorios,3,8000,Centro
+T00338,2026-05-28,Auriculares,Audio,1,35000,Norte
+T00338,2026-05-28,Notebook,Computación,1,850000,Norte
+T00338,2026-05-28,Pendrive,Accesorios,4,8000,Norte
+T00338,2026-05-28,Pilas AA x4,Accesorios,7,3500,Norte
+T00339,2026-05-28,Parlante,Audio,1,55000,Centro
+T00339,2026-05-28,Cable USB,Accesorios,2,2500,Centro
+T00339,2026-05-28,Teclado,Periféricos,1,30000,Centro
+T00340,2026-05-28,Mouse,Periféricos,2,12000,Centro
+T00341,2026-05-28,Cable USB,Accesorios,1,2500,Sur
+T00341,2026-05-28,Teclado,Periféricos,1,30000,Sur
+T00342,2026-05-29,Pilas AA x4,Accesorios,7,3500,Sur
+T00342,2026-05-29,Mouse,Periféricos,1,12000,Sur
+T00342,2026-05-29,Impresora,Computación,1,180000,Sur
+T00343,2026-05-29,Pilas AA x4,Accesorios,2,3500,Centro
+T00344,2026-05-30,Teclado,Periféricos,2,30000,Norte
+T00344,2026-05-30,Mouse,Periféricos,3,12000,Norte
+T00344,2026-05-30,Cable USB,Accesorios,2,2500,Norte
+T00345,2026-05-30,Webcam,Periféricos,1,45000,Sur
+T00345,2026-05-30,Parlante,Audio,2,55000,Sur
+T00345,2026-05-30,Pendrive,Accesorios,2,8000,Sur
+T00346,2026-05-30,Pilas AA x4,Accesorios,2,3500,Sur
+T00346,2026-05-30,Monitor,Computación,1,260000,Sur
+T00346,2026-05-30,Cable USB,Accesorios,8,2500,Sur
+T00347,2026-05-31,Pendrive,Accesorios,4,8000,Centro
+T00348,2026-05-31,Cable USB,Accesorios,5,2500,Sur
+T00348,2026-05-31,Auriculares,Audio,1,35000,Sur
+T00348,2026-05-31,Pilas AA x4,Accesorios,5,3500,Sur
+T00349,2026-05-31,Pilas AA x4,Accesorios,1,3500,Sur
+T00350,2026-05-31,Teclado,Periféricos,1,30000,Norte
+T00350,2026-05-31,Pendrive,Accesorios,5,8000,Norte
+T00351,2026-06-01,Teclado,Periféricos,1,30000,Centro
+T00351,2026-06-01,Monitor,Computación,1,260000,Centro
+T00351,2026-06-01,Parlante,Audio,1,55000,Centro
+T00351,2026-06-01,Webcam,Periféricos,1,45000,Centro
+T00352,2026-06-02,Mouse,Periféricos,2,12000,Centro
+T00352,2026-06-02,Impresora,Computación,1,180000,Centro
+T00352,2026-06-02,Auriculares,Audio,2,35000,Centro
+T00352,2026-06-02,Cable USB,Accesorios,4,2500,Centro
+T00353,2026-06-02,Teclado,Periféricos,1,30000,Centro
+T00353,2026-06-02,Auriculares,Audio,1,35000,Centro
+T00353,2026-06-02,Cable USB,Accesorios,9,2500,Centro
+T00353,2026-06-02,Monitor,Computación,2,260000,Centro
+T00354,2026-06-02,Monitor,Computación,1,260000,Norte
+T00354,2026-06-02,Pilas AA x4,Accesorios,2,3500,Norte
+T00355,2026-06-03,Webcam,Periféricos,1,45000,Norte
+T00355,2026-06-03,Pilas AA x4,Accesorios,1,3500,Norte
+T00356,2026-06-03,Auriculares,Audio,2,35000,Centro
+T00356,2026-06-03,Mouse,Periféricos,3,12000,Centro
+T00356,2026-06-03,Pendrive,Accesorios,5,8000,Centro
+T00356,2026-06-03,Teclado,Periféricos,2,30000,Centro
+T00357,2026-06-03,Teclado,Periféricos,1,30000,Sur
+T00358,2026-06-03,Cable USB,Accesorios,2,2500,Sur
+T00358,2026-06-03,Pendrive,Accesorios,2,8000,Sur
+T00359,2026-06-05,Notebook,Computación,1,850000,Sur
+T00360,2026-06-05,Pendrive,Accesorios,5,8000,Norte
+T00360,2026-06-05,Monitor,Computación,2,260000,Norte
+T00360,2026-06-05,Cable USB,Accesorios,10,2500,Norte
+T00361,2026-06-06,Mouse,Periféricos,2,12000,Norte
+T00361,2026-06-06,Pilas AA x4,Accesorios,2,3500,Norte
+T00362,2026-06-07,Pendrive,Accesorios,4,8000,Centro
+T00362,2026-06-07,Cable USB,Accesorios,6,2500,Centro
+T00363,2026-06-07,Cable USB,Accesorios,3,2500,Sur
+T00363,2026-06-07,Mouse,Periféricos,1,12000,Sur
+T00363,2026-06-07,Impresora,Computación,1,180000,Sur
+T00363,2026-06-07,Parlante,Audio,2,55000,Sur
+T00364,2026-06-08,Cable USB,Accesorios,8,2500,Norte
+T00364,2026-06-08,Teclado,Periféricos,2,30000,Norte
+T00365,2026-06-08,Cable USB,Accesorios,1,2500,Norte
+T00366,2026-06-08,Monitor,Computación,2,260000,Sur
+T00366,2026-06-08,Parlante,Audio,2,55000,Sur
+T00367,2026-06-08,Teclado,Periféricos,2,30000,Sur
+T00367,2026-06-08,Cable USB,Accesorios,6,2500,Sur
+T00368,2026-06-09,Mouse,Periféricos,1,12000,Centro
+T00368,2026-06-09,Parlante,Audio,2,55000,Centro
+T00368,2026-06-09,Cable USB,Accesorios,2,2500,Centro
+T00368,2026-06-09,Teclado,Periféricos,2,30000,Centro
+T00369,2026-06-09,Webcam,Periféricos,1,45000,Sur
+T00369,2026-06-09,Teclado,Periféricos,2,30000,Sur
+T00370,2026-06-09,Monitor,Computación,2,260000,Sur
+T00371,2026-06-10,Mouse,Periféricos,1,12000,Sur
+T00372,2026-06-10,Pilas AA x4,Accesorios,1,3500,Centro
+T00372,2026-06-10,Cable USB,Accesorios,9,2500,Centro
+T00373,2026-06-11,Pilas AA x4,Accesorios,1,3500,Sur
+T00373,2026-06-11,Mouse,Periféricos,1,12000,Sur
+T00373,2026-06-11,Pendrive,Accesorios,4,8000,Sur
+T00374,2026-06-12,Pendrive,Accesorios,5,8000,Centro
+T00374,2026-06-12,Teclado,Periféricos,2,30000,Centro
+T00374,2026-06-12,Cable USB,Accesorios,8,2500,Centro
+T00375,2026-06-13,Parlante,Audio,2,55000,Centro
+T00376,2026-06-14,Pendrive,Accesorios,3,8000,Centro
+T00376,2026-06-14,Cable USB,Accesorios,1,2500,Centro
+T00376,2026-06-14,Auriculares,Audio,2,35000,Centro
+T00376,2026-06-14,Mouse,Periféricos,3,12000,Centro
+T00377,2026-06-15,Teclado,Periféricos,2,30000,Centro
+T00377,2026-06-15,Impresora,Computación,1,180000,Centro
+T00377,2026-06-15,Mouse,Periféricos,2,12000,Centro
+T00377,2026-06-15,Parlante,Audio,1,55000,Centro
+T00378,2026-06-15,Teclado,Periféricos,1,30000,Sur
+T00378,2026-06-15,Auriculares,Audio,2,35000,Sur
+T00378,2026-06-15,Mouse,Periféricos,1,12000,Sur
+T00378,2026-06-15,Cable USB,Accesorios,8,2500,Sur
+T00379,2026-06-15,Mouse,Periféricos,2,12000,Norte
+T00379,2026-06-15,Pendrive,Accesorios,5,8000,Norte
+T00379,2026-06-15,Parlante,Audio,2,55000,Norte
+T00380,2026-06-15,Pilas AA x4,Accesorios,3,3500,Sur
+T00381,2026-06-15,Pilas AA x4,Accesorios,2,3500,Centro
+T00381,2026-06-15,Pendrive,Accesorios,2,8000,Centro
+T00381,2026-06-15,Cable USB,Accesorios,2,2500,Centro
+T00381,2026-06-15,Mouse,Periféricos,2,12000,Centro
+T00382,2026-06-15,Cable USB,Accesorios,5,2500,Sur
+T00382,2026-06-15,Monitor,Computación,1,260000,Sur
+T00382,2026-06-15,Teclado,Periféricos,2,30000,Sur
+T00383,2026-06-15,Teclado,Periféricos,1,30000,Norte
+T00383,2026-06-15,Auriculares,Audio,2,35000,Norte
+T00383,2026-06-15,Pendrive,Accesorios,2,8000,Norte
+T00384,2026-06-15,Cable USB,Accesorios,3,2500,Sur
+T00384,2026-06-15,Webcam,Periféricos,1,45000,Sur
+T00384,2026-06-15,Pilas AA x4,Accesorios,7,3500,Sur
+T00385,2026-06-15,Impresora,Computación,1,180000,Sur
+T00385,2026-06-15,Cable USB,Accesorios,2,2500,Sur
+T00386,2026-06-15,Cable USB,Accesorios,8,2500,Norte
+T00387,2026-06-16,Pilas AA x4,Accesorios,5,3500,Norte
+T00387,2026-06-16,Auriculares,Audio,2,35000,Norte
+T00387,2026-06-16,Impresora,Computación,1,180000,Norte
+T00388,2026-06-17,Pendrive,Accesorios,5,8000,Centro
+T00388,2026-06-17,Parlante,Audio,2,55000,Centro
+T00388,2026-06-17,Cable USB,Accesorios,10,2500,Centro
+T00389,2026-06-17,Pilas AA x4,Accesorios,1,3500,Norte
+T00389,2026-06-17,Pendrive,Accesorios,3,8000,Norte
+T00389,2026-06-17,Mouse,Periféricos,2,12000,Norte
+T00390,2026-06-17,Pilas AA x4,Accesorios,3,3500,Norte
+T00390,2026-06-17,Webcam,Periféricos,1,45000,Norte
+T00390,2026-06-17,Teclado,Periféricos,1,30000,Norte
+T00391,2026-06-19,Impresora,Computación,1,180000,Sur
+T00391,2026-06-19,Cable USB,Accesorios,7,2500,Sur
+T00391,2026-06-19,Auriculares,Audio,2,35000,Sur
+T00391,2026-06-19,Webcam,Periféricos,1,45000,Sur
+T00392,2026-06-19,Pilas AA x4,Accesorios,4,3500,Centro
+T00392,2026-06-19,Pendrive,Accesorios,4,8000,Centro
+T00392,2026-06-19,Parlante,Audio,2,55000,Centro
+T00392,2026-06-19,Cable USB,Accesorios,4,2500,Centro
+T00393,2026-06-20,Cable USB,Accesorios,4,2500,Norte
+T00393,2026-06-20,Monitor,Computación,2,260000,Norte
+T00393,2026-06-20,Mouse,Periféricos,3,12000,Norte
+T00393,2026-06-20,Auriculares,Audio,2,35000,Norte
+T00394,2026-06-21,Auriculares,Audio,1,35000,Norte
+T00394,2026-06-21,Pendrive,Accesorios,2,8000,Norte
+T00394,2026-06-21,Webcam,Periféricos,1,45000,Norte
+T00395,2026-06-21,Monitor,Computación,1,260000,Norte
+T00395,2026-06-21,Mouse,Periféricos,1,12000,Norte
+T00395,2026-06-21,Pendrive,Accesorios,1,8000,Norte
+T00396,2026-06-21,Pilas AA x4,Accesorios,1,3500,Norte
+T00396,2026-06-21,Teclado,Periféricos,1,30000,Norte
+T00397,2026-06-21,Pendrive,Accesorios,5,8000,Norte
+T00397,2026-06-21,Teclado,Periféricos,1,30000,Norte
+T00397,2026-06-21,Pilas AA x4,Accesorios,1,3500,Norte
+T00398,2026-06-21,Pilas AA x4,Accesorios,1,3500,Sur
+T00398,2026-06-21,Impresora,Computación,1,180000,Sur
+T00399,2026-06-21,Webcam,Periféricos,1,45000,Centro
+T00399,2026-06-21,Teclado,Periféricos,1,30000,Centro
+T00399,2026-06-21,Cable USB,Accesorios,8,2500,Centro
+T00400,2026-06-22,Teclado,Periféricos,2,30000,Centro
+T00400,2026-06-22,Mouse,Periféricos,2,12000,Centro
+T00400,2026-06-22,Pendrive,Accesorios,2,8000,Centro
+T00400,2026-06-22,Impresora,Computación,1,180000,Centro
+T00401,2026-06-23,Parlante,Audio,2,55000,Norte
+T00401,2026-06-23,Notebook,Computación,1,850000,Norte
+T00401,2026-06-23,Teclado,Periféricos,1,30000,Norte
+T00402,2026-06-23,Mouse,Periféricos,2,12000,Centro
+T00403,2026-06-23,Teclado,Periféricos,2,30000,Centro
+T00403,2026-06-23,Cable USB,Accesorios,3,2500,Centro
+T00403,2026-06-23,Pendrive,Accesorios,1,8000,Centro
+T00404,2026-06-23,Cable USB,Accesorios,6,2500,Norte
+T00404,2026-06-23,Pilas AA x4,Accesorios,2,3500,Norte
+T00404,2026-06-23,Monitor,Computación,2,260000,Norte
+T00404,2026-06-23,Auriculares,Audio,2,35000,Norte
+T00405,2026-06-24,Cable USB,Accesorios,1,2500,Sur
+T00405,2026-06-24,Pilas AA x4,Accesorios,3,3500,Sur
+T00405,2026-06-24,Webcam,Periféricos,1,45000,Sur
+T00405,2026-06-24,Pendrive,Accesorios,4,8000,Sur
+T00406,2026-06-24,Pilas AA x4,Accesorios,6,3500,Centro
+T00406,2026-06-24,Teclado,Periféricos,2,30000,Centro
+T00406,2026-06-24,Impresora,Computación,1,180000,Centro
+T00406,2026-06-24,Mouse,Periféricos,1,12000,Centro
+T00407,2026-06-25,Teclado,Periféricos,2,30000,Centro
+T00407,2026-06-25,Cable USB,Accesorios,2,2500,Centro
+T00407,2026-06-25,Impresora,Computación,1,180000,Centro
+T00407,2026-06-25,Webcam,Periféricos,1,45000,Centro
+T00408,2026-06-25,Teclado,Periféricos,2,30000,Sur
+T00408,2026-06-25,Pilas AA x4,Accesorios,5,3500,Sur
+T00408,2026-06-25,Pendrive,Accesorios,4,8000,Sur
+T00409,2026-06-25,Webcam,Periféricos,1,45000,Centro
+T00409,2026-06-25,Pendrive,Accesorios,5,8000,Centro
+T00409,2026-06-25,Parlante,Audio,2,55000,Centro
+T00410,2026-06-25,Pendrive,Accesorios,5,8000,Centro
+T00411,2026-06-25,Teclado,Periféricos,2,30000,Norte
+T00411,2026-06-25,Mouse,Periféricos,1,12000,Norte
+T00412,2026-06-26,Cable USB,Accesorios,2,2500,Norte
+T00413,2026-06-26,Pendrive,Accesorios,4,8000,Norte
+T00413,2026-06-26,Pilas AA x4,Accesorios,5,3500,Norte
+T00413,2026-06-26,Auriculares,Audio,1,35000,Norte
+T00413,2026-06-26,Mouse,Periféricos,3,12000,Norte
+T00414,2026-06-27,Parlante,Audio,2,55000,Sur
+T00415,2026-06-27,Cable USB,Accesorios,3,2500,Centro
+T00415,2026-06-27,Parlante,Audio,2,55000,Centro
+T00415,2026-06-27,Pendrive,Accesorios,1,8000,Centro
+T00415,2026-06-27,Pilas AA x4,Accesorios,3,3500,Centro
+T00416,2026-06-27,Pilas AA x4,Accesorios,4,3500,Norte
+T00416,2026-06-27,Teclado,Periféricos,1,30000,Norte
+T00417,2026-06-28,Pendrive,Accesorios,2,8000,Sur
+T00417,2026-06-28,Cable USB,Accesorios,7,2500,Sur
+T00417,2026-06-28,Webcam,Periféricos,1,45000,Sur
+T00417,2026-06-28,Mouse,Periféricos,1,12000,Sur
+T00418,2026-06-29,Monitor,Computación,2,260000,Sur
+T00418,2026-06-29,Webcam,Periféricos,1,45000,Sur
+T00418,2026-06-29,Teclado,Periféricos,2,30000,Sur
+T00418,2026-06-29,Cable USB,Accesorios,4,2500,Sur
+T00419,2026-06-30,Cable USB,Accesorios,4,2500,Sur
+T00419,2026-06-30,Pilas AA x4,Accesorios,2,3500,Sur
+T00420,2026-06-30,Pilas AA x4,Accesorios,1,3500,Centro
+T00420,2026-06-30,Webcam,Periféricos,1,45000,Centro
